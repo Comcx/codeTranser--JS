@@ -1,2 +1,2 @@
 # codeTranser--JS
-A new trial of making a compiler
+A new trial of making a compiler by JavaScript!
