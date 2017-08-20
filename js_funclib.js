@@ -36,7 +36,7 @@ function slNode(key,value){
 slNode.prototype.changeKeyByFunction = function(){
 
 	this.key = this.value;
-};
+}; 
 
 function SL(length){
 	this.length = arguments[0]?length:0;
